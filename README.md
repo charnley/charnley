@@ -1,10 +1,17 @@
 
-                                                 _                                  
+                                                     _                                  
      _____     _ _        _ _ _         _   _      _| |            __ _                 
     |  |  |___| | |___   | | | |___ ___| |_| |    |_|_|_____    __|  |_|_____ _____ _ _ 
     |     | -_| | | . |  | | | | . |  _| | . |_   | | |     |  |  |  | |     |     | | |
     |__|__|___|_|_|___|  |_____|___|_| |_|___| |  |_| |_|_|_|  |_____|_|_|_|_|_|_|_|_  |
                                              |_|                                   |___|
+
+    - I like VIM and TMUX
+    - I like Python and Fortran
+    - I like Quantum Chemistry and Cheminformatics
+    
+    But mostly
+    - I like Makefiles and templates
 
 
 
