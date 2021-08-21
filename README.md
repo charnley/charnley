@@ -9,6 +9,7 @@
     - I like VIM and TMUX
     - I like Python and Fortran
     - I like Quantum Chemistry and Cheminformatics
+    - I like Machine Learning and Data Science
     
     But mostly
     - I love Makefiles
