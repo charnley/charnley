@@ -6,7 +6,7 @@
     |__|__|___|_|_|___|  |_____|___|_| |_|___| |  |_| |_|_|_|  |_____|_|_|_|_|_|_|_|_  |
                                              |_|                                   |___|
 
-    - I like VIM and TMUX
+    - I like Neovim and TMUX
     - I like Python and Fortran
     - I like Quantum Chemistry and Cheminformatics
     - I like Machine Learning and Data Science
